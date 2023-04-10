@@ -1,0 +1,41 @@
+.listItem{
+    text-decoration: none;
+    font-weight: bold;
+}
+.listItem1{
+    text-decoration: none;
+    font-weight: bold;
+    position: relative;
+    left: 800px;   
+}
+.listItem2{
+    position: relative;
+    left: 300px;   
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    background-color: skyblue;
+}
+#Student{
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+#stuAddBtn{
+    background-color: brown;
+   position: absolute;
+
+    left: 800px;
+}
+.align{
+    text-align: center;
+    justify-content: center;
+}
+body{
+    background-color: gray;
+}
